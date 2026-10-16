@@ -56,4 +56,4 @@ The reshaped dataset (8 exploded tables + 1 demographics table, 9 sheets total) 
 
 ## Author
 
-Built as part of the IBM Data Analyst Professional Certificate capstone project.
+Augusto Set Ramírez Ames — analista de datos. [LinkedIn](https://linkedin.com/in/AugustoRamirezA)
