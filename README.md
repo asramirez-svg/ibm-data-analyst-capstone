@@ -2,6 +2,8 @@
 
 Final project for the **IBM Data Analyst Professional Certificate** (Coursera), Module 5 — *Building a Dashboard* (Option A: IBM Cognos Analytics).
 
+![Current Technology Usage tab](img/01_current_technology_usage.png)
+
 ## Overview
 
 This project builds an interactive 3-tab dashboard analyzing developer survey data (18,845 respondents, 114 columns — a subset of the Stack Overflow Developer Survey format used throughout the certificate). The dashboard covers:
@@ -42,6 +44,14 @@ The reshaped dataset (8 exploded tables + 1 demographics table, 9 sheets total) 
 | | 3 | Line chart | Respondent distribution by education level |
 | | 4 | Stacked bar chart | Respondent count by age, classified by education level |
 
+**Future Technology Trend**
+
+![Future Technology Trend tab](img/02_future_technology_trend.png)
+
+**Demographics**
+
+![Demographics tab](img/03_demographics.png)
+
 ## Key Findings
 
 - JavaScript, SQL, and HTML/CSS lead current language usage; the "want to work with" ranking is nearly identical, with Go gaining ground.
@@ -53,6 +63,7 @@ The reshaped dataset (8 exploded tables + 1 demographics table, 9 sheets total) 
 
 - `survey_data_.xlsx` — the Power Query–transformed dataset (9 sheets: 8 exploded multi-value tables + demographics) uploaded to Cognos
 - `dashboard_export.pdf` — exported PDF of the finished Cognos dashboard (all 3 tabs)
+- `img/` — screenshots of each dashboard tab
 
 ## Author
 
